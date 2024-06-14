@@ -1,0 +1,5 @@
+{
+  "optcheck.xplus.failure.title": "OptiFine Not Detected!",
+  "optcheck.xplus.failure.notfound": "This Modpack has detected that you have not installed the OptiFine mod. \n\n§cThis Modpack requires the OptiFine mod to achieve the best performance§r, and incorrect installation may cause issues in the game. \n\nClick the button below §2“Take Me to Download”§r to download the OptiFine mod.\n\nIf you want to disable this check, you can remove the optcheck mod!",
+  "optcheck.xplus.openlink": "§2Take Me to Download§r"
+}

@@ -1,0 +1,5 @@
+{
+  "optcheck.xplus.failure.title" : "未检测到高清修复！",
+  "optcheck.xplus.failure.notfound" : "当前整合包检测到你尚未安装高清修复模组. \n\n§cXPlus OptiFineReady整合包需要高清修复模组以达到最佳效果§r, 若不正确安装可能导致游戏出现问题.\n\n点击下方§2“带我去下载”§r按钮即可下载高清修复模组.\n\n点击§4“退出游戏”§r结束游戏进程. 若你要禁用此检测，你可以删除 optcheck 模组！",
+  "optcheck.xplus.openlink" :"§2带我去下载§r"
+}
