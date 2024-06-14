@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.wudji.optcheck.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "optcheck.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MainMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
