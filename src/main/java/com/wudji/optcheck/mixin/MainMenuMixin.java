@@ -20,10 +20,12 @@ public class MainMenuMixin {
         try{
             Class.forName("net.optifine.Config");
         } catch (ClassNotFoundException e) {
-            if (optcheck$flag){
-                Minecraft.getInstance().setScreen(OptiFineWarningScreen);
+            if (optcheck$flag) {
                 optcheck$flag = false;
             }
+        }
+        if (optcheck$flag) {
+            Minecraft.getInstance().setScreen(OptiFineWarningScreen);
         }
     }
 }
