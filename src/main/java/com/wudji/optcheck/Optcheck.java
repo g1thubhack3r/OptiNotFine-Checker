@@ -21,7 +21,7 @@ public class Optcheck {
     public static Screen OptiFineWarningScreen = new ConfirmScreen(
             (boolean b) ->{
                 if(b){
-                    Util.getPlatform().openUri("https://www.optifine.net/downloads");
+                    Util.getPlatform().openUri("https://www.curseforge.com/minecraft/mc-mods/sodium");
                 }else{
                     Minecraft.getInstance().stop();
                 }
